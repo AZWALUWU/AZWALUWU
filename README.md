@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🏠 I do my job only **from home ( WFH )**
+ 🏠 Available for job
  
  📚 I’m currently learning **New Programming Leanguage**
 
