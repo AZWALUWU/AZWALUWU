@@ -8,8 +8,8 @@
 
 <div align="center">
  
-🏠 Open to New Opportunities
-📚 Currently Enhancing Skills in [New Programming Language]
+🏠 Open to New Opportunities <br>
+📚 Currently Enhancing Skills in [New Programming Language] <br>
 💬 Feel free to reach out for discussions on Career Opportunities, Gaming, Business Insights, or any other topic. You can connect with me further on my [LinkedIn Profile](https://www.linkedin.com/in/azwa-luwu).
 
  </div>
