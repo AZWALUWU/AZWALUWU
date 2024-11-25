@@ -8,11 +8,9 @@
 
 <div align="center">
  
- 🏠 Available for job
- 
- 📚 I’m currently learning **New Programming Leanguage**
-
-💬 Ask me about **Job, Gaming, Business... or anything [here](https://github.com/sarvdx)**
+🏠 Open to New Opportunities
+📚 Currently Enhancing Skills in [New Programming Language]
+💬 Feel free to reach out for discussions on Career Opportunities, Gaming, Business Insights, or any other topic. You can connect with me further on my [LinkedIn Profile](https://www.linkedin.com/in/azwa-luwu).
 
  </div>
  
