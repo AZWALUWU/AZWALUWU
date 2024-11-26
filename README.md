@@ -33,7 +33,15 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,mongodb,express,nodejs" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ---
@@ -52,9 +60,9 @@
 <br/>
 <div align="center">
   
-🔭 **Currently Working On:** Front-end projects using React and Tailwind CSS<br>
-🌱 **Learning:** Deepening my knowledge of MongoDB and API integrations<br>
-💡 **Goal:** To create user-friendly and visually appealing web applications<br>
+🔭 **Currently Working On:** Front-end and full-stack projects using React, Express.js, and MongoDB<br>
+🌱 **Learning:** Advanced JavaScript concepts and back-end APIs<br>
+💡 **Goal:** To create efficient and scalable web applications<br>
 📫 **Contact:** Reach me via email at azwaluwu472@gmail.com<br>
 
 </div>
@@ -65,8 +73,8 @@
 <br/>
 <ul>
   <li><strong><a href="https://github.com/username/project1">Responsive Website</a></strong>: A fully responsive website built with HTML, CSS, and Bootstrap.</li>
-  <li><strong><a href="https://github.com/username/project2">Interactive Dashboard</a></strong>: A React-based dashboard with MongoDB integration for real-time data.</li>
-  <li><strong><a href="https://github.com/username/project3">Tailwind E-commerce</a></strong>: An e-commerce website styled with Tailwind CSS and interactive components.</li>
+  <li><strong><a href="https://github.com/username/project2">Full-Stack Dashboard</a></strong>: A React-based dashboard with Express.js and MongoDB integration for real-time data management.</li>
+  <li><strong><a href="https://github.com/username/project3">Tailwind E-commerce</a></strong>: An e-commerce website styled with Tailwind CSS and a Node.js back-end API.</li>
 </ul>
 
 ---
