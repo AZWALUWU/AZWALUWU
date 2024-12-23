@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Azwa+Luwu!;" />
 </h1>
 
-<h3 align="center">A Passionate Front-End Developer</h3>
+<h3 align="center">A Passionate Front-End Developer MERN Specialization</h3>
 
 <br/>
 
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,mongodb,nodejs,express,nextjs,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,mongodb,nodejs,express" />
 </div>
 
 ---
