@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Azwa+Luwu!;" />
 </h1>
 
-<h3 align="center">A Passionate Front-End Developer MERN Specialization</h3>
+<h3 align="center">A Passionate Full - Stack Web Developer MERN Specialization</h3>
 
 <br/>
 
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,mongodb,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,mongodb,express,react,node" />
 </div>
 
 ---
@@ -64,9 +64,9 @@
 <h2 align="center">🚀 Projects</h2>
 <br/>
 <ul>
-  <li><strong><a href="https://github.com/username/project1">Responsive Website</a></strong>: A fully responsive website built with HTML, CSS, and Bootstrap.</li>
-  <li><strong><a href="https://github.com/username/project2">Full-Stack Dashboard</a></strong>: A React-based dashboard with Express.js and MongoDB integration for real-time data management.</li>
-  <li><strong><a href="https://github.com/username/project3">Tailwind E-commerce</a></strong>: An e-commerce website styled with Tailwind CSS and a Node.js back-end API.</li>
+  <li><strong><a href="https://github.com/username/project1">Social Media Clone (Threads) App</a></strong>: A fully responsive website built with HTML, CSS, and Bootstrap.</li>
+  <li><strong><a href="https://github.com/username/project2">Blog Platform</a></strong>: A React-based dashboard with Express.js and MongoDB integration for real-time data management.</li>
+  <li><strong><a href="https://github.com/username/project3">E-Commerce Platform</a></strong>: An e-commerce website styled with Tailwind CSS and a Node.js back-end API.</li>
 </ul>
 
 ---
