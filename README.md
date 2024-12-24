@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,mongodb,express,react,node" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,mongodb,express,react,nodejs" />
 </div>
 
 ---
@@ -52,8 +52,8 @@
 <br/>
 <div align="center">
   
-🔭 **Currently Working On:** Front-end and full-stack projects using React, Express.js, and MongoDB<br>
-🌱 **Learning:** Advanced JavaScript concepts and back-end APIs<br>
+🔭 **Currently Working On:** full-stack projects using MERN Stack<br>
+🌱 **Learning:** Advanced JavaScript concepts, back-end APIs, And Machine Learning<br>
 💡 **Goal:** To create efficient and scalable web applications<br>
 📫 **Contact:** Reach me via email at azwaluwu472@gmail.com<br>
 
