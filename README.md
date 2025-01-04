@@ -5,9 +5,9 @@
 <h3 align="center">| Full-Stack Web Developer |</h3>
 
 <div align="center">
-     Building Intuitive and Responsive Web Interfaces and Mobile Apss <br>
-     Eager to Learn and Grow in Full Stack Developer and Machine Learning<br>
-     Let's connect! Open for collaboration and discussions on exciting projects! <br>
+     - Building Intuitive and Responsive Web Interfaces and Mobile Aps<br>
+     - Eager to Learn and Grow in Full Stack Developer and Machine Learning<br>
+     - Let's connect! Open for collaboration and discussions on exciting projects!<br>
 </div>
 
 ---
