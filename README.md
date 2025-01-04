@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,mongodb,express,react,nodejs,nextjs,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,mongodb,express,react,nodejs,nextjs,python" />
 </div>
 
 ---
