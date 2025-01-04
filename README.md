@@ -4,7 +4,7 @@
 
 <h3 align="center">| Full-Stack Web Developer |</h3>
 
-<div align="left">
+<div align="justify">
      - Building Intuitive and Responsive Web Interfaces and Mobile Apps<br>
      - Eager to Learn and Grow in Full Stack Developer and Machine Learning<br>
      - Let's connect! Open for collaboration and discussions on exciting projects!<br>
