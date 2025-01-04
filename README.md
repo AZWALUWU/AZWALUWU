@@ -35,11 +35,9 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
+<h2 align="center">📈 Top Using Languages 📈</h2>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvdx&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdx&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </div>
 
