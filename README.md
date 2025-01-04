@@ -5,9 +5,9 @@
 <h3 align="center">| Full-Stack Web Developer |</h3>
 
 <div align="center">
-    🌟 Building Intuitive and Responsive Web Interfaces <br>
-    📚 Eager to Learn and Grow in Web Development <br>
-    💬 Let's connect! Open for collaboration and discussions on exciting projects! <br>
+     Building Intuitive and Responsive Web Interfaces and Mobile Apss <br>
+     Eager to Learn and Grow in Full Stack Developer and Machine Learning<br>
+     Let's connect! Open for collaboration and discussions on exciting projects! <br>
 </div>
 
 ---
@@ -42,8 +42,8 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <div align="center">
-    <li>Currently Working On: Full-stack projects using the MERN Stack<br></li>
-    <li>Learning: JavaScript concepts, back-end APIs, Python, and Machine Learning<br></li>
+    <li>Currently Working On: Full-stack projects using the MERN Stack</li>
+    <li>Learning: JavaScript concepts, back-end APIs, Python, and Machine Learning</li>
     <li>Goal: To create efficient and scalable web applications</li>
 </div>
 
