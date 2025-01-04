@@ -42,9 +42,9 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <div align="center">
-    Currently Working On: Full-stack projects using the MERN Stack<br>
-    Learning: JavaScript concepts, back-end APIs, Python, and Machine Learning<br>
-    Goal: To create efficient and scalable web applications
+    <li>Currently Working On: Full-stack projects using the MERN Stack<br></li>
+    <li>Learning: JavaScript concepts, back-end APIs, Python, and Machine Learning<br></li>
+    <li>Goal: To create efficient and scalable web applications</li>
 </div>
 
 ---
