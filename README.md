@@ -42,19 +42,18 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <div align="center">
-    🚀 **Currently Working On:** Full-stack projects using the MERN Stack<br>
-    🌱 **Learning:** Advanced JavaScript concepts, back-end APIs, and Machine Learning<br>
-    💡 **Goal:** To create efficient and scalable web applications<br>
-    📫 **Contact:** Reach me via email at azwaluwu472@gmail.com<br>
+    Currently Working On: Full-stack projects using the MERN Stack<br>
+    Learning: JavaScript concepts, back-end APIs, Python, and Machine Learning<br>
+    Goal: To create efficient and scalable web applications
 </div>
 
 ---
 
 <h2 align="center">🚀 Projects</h2>
 <ul>
-  <li><strong><a href="https://github.com/username/project1">Social Media Clone (Threads) App</a></strong>: A fully responsive website built with HTML, CSS, and Bootstrap.</li>
-  <li><strong><a href="https://github.com/username/project2">Blog Platform</a></strong>: A React-based dashboard with Express.js and MongoDB integration for real-time data management.</li>
-  <li><strong><a href="https://github.com/username/project3">E-Commerce Platform</a></strong>: An e-commerce website styled with Tailwind CSS and a Node.js back-end API.</li>
+  <li><strong><a href="https://github.com/username/project1">Social Media Clone (Threads) App</a></strong> : A fully responsive website built with HTML, CSS, and Bootstrap.</li>
+  <li><strong><a href="https://github.com/username/project2">Blog Platform</a></strong>                    : A React-based dashboard with Express.js and MongoDB integration for real-time data management.</li>
+  <li><strong><a href="https://github.com/username/project3">E-Commerce Platform</a></strong>              : An e-commerce website styled with Tailwind CSS and a Node.js back-end API.</li>
 </ul>
 
 ---
