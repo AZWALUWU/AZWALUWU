@@ -27,11 +27,10 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 #
 
-<div align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvdx&repo=Thread-Clone)](https://github.com/sarvdx/Thread-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvdx&repo=Blog-Platform)](https://github.com/sarvdx/Blog-Platform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvdx&repo=ECommerce-Platform)](https://github.com/sarvdx/ECommerce-Platform)
-</div>
+
 <br />
 
 #
