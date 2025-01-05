@@ -27,9 +27,10 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvdx&repo=Thread-Clone)](https://github.com/sarvdx/Thread-Clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvdx&repo=Blog-Platform)](https://github.com/sarvdx/Blog-Platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvdx&repo=ECommerce-Platform)](https://github.com/sarvdx/ECommerce-Platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Thread-Clone)](https://github.com/AZWALUWU/Thread-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Blog-Platform)](https://github.com/AZWALUWU/Blog-Platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=ECommerce-Platform)](https://github.com/AZWALUWU/ECommerce-Platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Mobile-Apps)](https://github.com/AZWALUWU/Mobile-Apps)
 
 <br />
 
