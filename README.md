@@ -8,7 +8,7 @@
 
 ---
 
-### 🧰 Front - End Languages
+### 🎨 Front - End Languages
 
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 🧰 Back - End Languages
+### 💻 Back - End Languages
 
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🧰 DataBase
+### 🗄️ DataBase
 
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
@@ -39,14 +39,14 @@
 
 ---
 
-### 🧰 DevOps
+### ⚙️ DevOps
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 ---
 
-### 🧰 Others
+### ✨ Others
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
