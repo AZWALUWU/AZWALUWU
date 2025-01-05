@@ -30,19 +30,22 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 <style>
   .icon-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
-    gap: 10px;
-    text-align: center;
+    grid-template-columns: repeat(7, 1fr); /* Total 7 kolom */
+    gap: 20px; /* Jarak antar ikon */
     align-items: center;
-    justify-items: center;
+    justify-content: space-between;
     width: 100%;
+    max-width: 900px; /* Menyesuaikan ukuran maksimal */
+    margin: 0 auto; /* Tengah pada halaman */
   }
 
   .icon-container img {
-    width: 30px;
-    height: auto;
+    width: 40px; /* Ukuran ikon konsisten */
+    height: 40px;
+    object-fit: contain; /* Menjaga aspek rasio gambar */
   }
 </style>
+
 
 ---
 
