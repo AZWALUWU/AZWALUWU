@@ -10,7 +10,8 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 ### 🧰 Languages and Tools
 
-<div align="justify" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="justify" style="text-align: justify;">
+  <div style="display: inline-block; width: 100%;">
     <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="TailwindCSS" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
@@ -25,6 +26,7 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
     <img alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
     <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </div>
 </div>
 
 ---
