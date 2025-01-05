@@ -10,7 +10,7 @@
 
 ### 🧰 Languages and Tools
 
-<div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="justify" style="display: flex; flex-wrap: wrap; ">
     <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
