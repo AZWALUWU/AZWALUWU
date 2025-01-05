@@ -10,7 +10,7 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 ### 🧰 Languages and Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="TailwindCSS" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
@@ -31,7 +31,7 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 ### 📂 Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://github.com/AZWALUWU/Thread-Clone">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Thread-Clone" alt="Thread Clone Repository" width="400px" />
     </a>
