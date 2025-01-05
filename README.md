@@ -28,4 +28,10 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdx&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdx&hide_progress=true)
+
+<br />
+
+#
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarvdx)](https://github.com/anuraghazra/github-readme-stats)
