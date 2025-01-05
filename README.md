@@ -6,33 +6,58 @@
 Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, MongoDB, Express, Node.js, Next.js, and Tailwind CSS</strong>. Experienced in building and deploying web applications, with hands-on knowledge of platforms like <strong>Vercel, MongoDB Atlas, and Render</strong>.
 </div>
 
+---
+
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img alt="TailwindCSS" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+    <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alt="Vercel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+    <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
 
-<br />
+---
 
-#
+### 📂 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Thread-Clone)](https://github.com/AZWALUWU/Thread-Clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Blog-Platform)](https://github.com/AZWALUWU/Blog-Platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=ECommerce-Platform)](https://github.com/AZWALUWU/ECommerce-Platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Mobile-Apps)](https://github.com/AZWALUWU/Mobile-Apps)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/AZWALUWU/Thread-Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Thread-Clone" alt="Thread Clone Repository" width="400px" />
+    </a>
+    <a href="https://github.com/AZWALUWU/Blog-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Blog-Platform" alt="Blog Platform Repository" width="400px" />
+    </a>
+    <a href="https://github.com/AZWALUWU/ECommerce-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=ECommerce-Platform" alt="E-Commerce Platform Repository" width="400px" />
+    </a>
+    <a href="https://github.com/AZWALUWU/Mobile-Apps">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Mobile-Apps" alt="Mobile Apps Repository" width="400px" />
+    </a>
+</div>
 
-<br />
+---
 
-#
+### 📫 Contact Me
 
+<div align="center">
+    <a href="https://linkedin.com/in/azwa-luwu" target="_blank">
+        <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a>
+    <a href="mailto:azwa@example.com">
+        <img alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+    </a>
+    <a href="https://github.com/AZWALUWU" target="_blank">
+        <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    </a>
+</div>
