@@ -2,6 +2,8 @@
 
 **`Full Stack Web Developer`**
 
+<div align="justify">Full Stack developer with expertise in HTML, CSS, JavaScript, React.js, MongoDB, Express, Node.js, Next.js, and Tailwind CSS. Experienced in building and deploying web applications, with hands-on knowledge of platforms like Vercel, MongoDB Atlas, and Render.</div>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
