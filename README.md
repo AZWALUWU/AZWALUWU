@@ -10,7 +10,7 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 ### 🧰 Languages and Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img alt="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="TailwindCSS" width="25px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
