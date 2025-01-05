@@ -34,4 +34,3 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 #
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarvdx)](https://github.com/sarvdx/github-readme-stats)
