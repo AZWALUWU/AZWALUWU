@@ -28,21 +28,26 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 </div>
 
 <style>
+  body {
+    background-color: #1e1e1e; /* Background hitam untuk tampilan dark */
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+
   .icon-container {
-    display: grid;
-    grid-template-columns: repeat(7, 1fr); /* Total 7 kolom */
-    gap: 20px; /* Jarak antar ikon */
+    display: flex;
+    justify-content: space-between; /* Membuat ikon rata kiri dan kanan */
     align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    max-width: 900px; /* Menyesuaikan ukuran maksimal */
-    margin: 0 auto; /* Tengah pada halaman */
+    width: 100%; /* Memenuhi lebar container */
+    max-width: 900px; /* Batas maksimal container */
+    margin: 0 auto; /* Agar container ada di tengah */
   }
 
   .icon-container img {
-    width: 40px; /* Ukuran ikon konsisten */
-    height: 40px;
-    object-fit: contain; /* Menjaga aspek rasio gambar */
+    width: 50px; /* Ukuran ikon */
+    height: 50px;
+    object-fit: contain; /* Menjaga proporsi ikon */
   }
 </style>
 
