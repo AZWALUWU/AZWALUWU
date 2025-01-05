@@ -27,9 +27,8 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdx&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdx&hide_progress=true)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 #
