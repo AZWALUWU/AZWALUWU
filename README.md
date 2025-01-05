@@ -10,7 +10,7 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 
 ### 🧰 Languages and Tools
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="justify" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="TailwindCSS" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
@@ -47,17 +47,3 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 </div>
 
 ---
-
-### 📫 Contact Me
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;>
-    <a href="https://linkedin.com/in/azwa-luwu" target="_blank">
-        <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a>
-    <a href="mailto:azwaluwu472@gmail.com">
-        <img alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-    </a>
-    <a href="https://github.com/AZWALUWU" target="_blank">
-        <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    </a>
-</div>
