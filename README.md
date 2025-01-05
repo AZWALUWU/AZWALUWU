@@ -28,3 +28,4 @@ Full Stack developer with expertise in <strong>HTML, CSS, JavaScript, React.js, 
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdx&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
