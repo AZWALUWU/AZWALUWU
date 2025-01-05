@@ -17,7 +17,9 @@
     <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img alt="TailwindCSS" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
+
 ---
+
 ### 🧰 Back - End Languages
 
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -28,6 +30,7 @@
 </div>
 
 ---
+
 ### 🧰 DataBase
 
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -36,6 +39,7 @@
 </div>
 
 ---
+
 ### 🧰 DevOps
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -43,6 +47,7 @@
 </div>
 
 ---
+
 ### 🧰 Tools
 <div align="justify" style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -51,6 +56,8 @@
     <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+---
 
 ### 📂 Projects
 
