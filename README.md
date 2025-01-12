@@ -1,9 +1,9 @@
 # 🐱‍👤 Aza
 
-**`Full Stack Web Developer`**
+**`Full Stack JavaScript Developer`**
 
 <div align="justify">
-<strong>Full Stack Web Developer</strong> with expertise in <strong>HTML, CSS, JavaScript, TypeScript, Python, React.js, MongoDB, Express, Node.js, Next.js, and Tailwind CSS</strong>. Experienced in building and deploying web applications, with hands-on knowledge of platforms like <strong>Vercel, MongoDB Atlas, and Render</strong>.
+<strong>Full Stack JavaScript Developer</strong> with expertise in <strong>HTML, CSS, JavaScript, TypeScript, Python, React.js, MongoDB, Express, Node.js, Next.js, and Tailwind CSS</strong>. Experienced in building and deploying web applications, with hands-on knowledge of platforms like <strong>Vercel, MongoDB Atlas, and Render</strong>.
 </div> <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZWALUWU&hide_progress=true)
