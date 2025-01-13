@@ -3,7 +3,7 @@
 **`Full Stack JavaScript Developer`**
 
 <div align="justify">
-<strong>Full Stack JavaScript Developer</strong> with expertise in <strong>HTML, CSS, JavaScript, TypeScript, Python, React.js, MongoDB, Express, Node.js, Next.js, and Tailwind CSS</strong>. Experienced in building and deploying web applications, with hands-on knowledge of platforms like <strong>Vercel, MongoDB Atlas, and Render</strong>.
+<strong>Full Stack JavaScript Developer</strong> with expertise in <strong>HTML, CSS, JavaScript, TypeScript, React.js, MongoDB, Express, Node.js, Next.js, and Tailwind CSS</strong>. Experienced in building and deploying web applications, with hands-on knowledge of platforms like <strong>Vercel, MongoDB Atlas, and Render</strong>.
 </div> <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZWALUWU&hide_progress=true)
@@ -23,7 +23,6 @@
     <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     <img alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
     <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
