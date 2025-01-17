@@ -3,7 +3,7 @@
 **`Full Stack Developer`**
 
 <div align="justify">
-<strong>Full Stack JavaScript Developer</strong> with expertise in <strong>JavaScript, TypeScript, Python, React.js, MongoDB, MySQL, Express, Node.js, Next.js, and Tailwind CSS</strong>. Experienced in building and deploying web applications, with hands-on knowledge of platforms like <strong>Vercel, MongoDB Atlas, and Render</strong>.
+<strong>Full Stack Developer</strong> using Tech Stack <strong>JavaScript, TypeScript, Python, React.js, MongoDB, MySQL, Express, Node.js, Next.js, and Tailwind CSS</strong>. Experienced in building and deploying web applications, with hands-on knowledge of platforms like <strong>Vercel, MongoDB Atlas, and Render</strong>.
 </div> <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZWALUWU&hide_progress=true)
