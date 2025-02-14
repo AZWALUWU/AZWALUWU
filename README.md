@@ -31,13 +31,13 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://github.com/AZWALUWU/submission-machine-learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=machine-learning" alt="machine-learning klasifikasi Gambar" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=submission-machine-learning" alt="machine-learning klasifikasi Gambar" width="400px" />
     </a>
     <a href="https://github.com/AZWALUWU/submission_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=machine-learning-data" alt="machine-learning data analis" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=submission_project" alt="machine-learning data analis" width="400px" />
     </a>
     <a href="https://github.com/AZWALUWU/Submission-data-analisis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=data-analis" alt="Data analis" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Submission-data-analisis" alt="Data analis" width="400px" />
     </a>
     <a href="https://github.com/AZWALUWU/Mobile-Apps">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Mobile-Apps" alt="Mobile Apps Repository" width="400px" />
