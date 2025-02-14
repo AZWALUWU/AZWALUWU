@@ -32,18 +32,19 @@
 ### 📂 Projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <a href="https://github.com/AZWALUWU/submission-machine-learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=submission-machine-learning" alt="machine-learning klasifikasi Gambar" width="400px" />
+    <a href="https://github.com/AZWALUWU/Machine-Learning-Klasifikasi-Gambar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Machine-Learning-Klasifikasi-Gambar" alt="Machine Learning Klasifikasi Gambar" width="400px" />
     </a>
-    <a href="https://github.com/AZWALUWU/submission_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=submission_project" alt="machine-learning data analis" width="400px" />
+    <a href="https://github.com/AZWALUWU/Streamlit-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Streamlit-Project" alt="Streamlit Project" width="400px" />
     </a>
-    <a href="https://github.com/AZWALUWU/Submission-data-analisis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Submission-data-analisis" alt="Data analis" width="400px" />
+    <a href="https://github.com/AZWALUWU/Machine-Learning-Analisis-Data">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Machine-Learning-Analisis-Data" alt="Machine Learning Analisis Data" width="400px" />
     </a>
-    <a href="https://github.com/AZWALUWU/Mobile-Apps">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=Mobile-Apps" alt="Mobile Apps Repository" width="400px" />
+    <a href="https://github.com/AZWALUWU/resume-page">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZWALUWU&repo=resume-page" alt="Resume Page" width="400px" />
     </a>
 </div>
+
 
 ---
