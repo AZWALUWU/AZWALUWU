@@ -3,13 +3,13 @@
 
 I have **4+ years of experience** operating FTTH internet infrastructure in production environments. Currently transitioning into Cloud and DevOps Engineering by building, debugging, and documenting production-ready systems.
 
-[🌐 LinkedIn](https://www.linkedin.com/in/azwa-luwu-4849033a3/) | [📬 Email Me](mailto:USERNAME_EMAIL_ANDA@gmail.com)
+[🌐 LinkedIn](https://www.linkedin.com/in/azwa-luwu-4849033a3/) | [📬 Email Me](mailto:azafi101@gmail.com)
 
 ---
 
 ## ⚡ Executive Summary
 *   **Infrastructure Background:** 4+ years managing physical and logical network infrastructure (FTTH, routing, switching).
-*   **OS & Linux:** Working daily with Linux-based systems, system hardening, and shell scripting.
+*   **OS & Linux:** Working daily with Linux & Windows systems, system hardening, and shell scripting.
 *   **Cloud & DevOps Focus:** Active practitioner in AWS Core Services, Containerization (Docker/K8s), Infrastructure as Code (Terraform), and CI/CD pipelines.
 
 ---
