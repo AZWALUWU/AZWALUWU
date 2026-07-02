@@ -17,7 +17,7 @@ I have **4+ years of experience** operating FTTH internet infrastructure in prod
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,aws,terraform,docker,kubernetes,githubactions,prometheus,grafana,aiscript" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,aws,terraform,docker,kubernetes,githubactions,prometheus,grafana,aiscript" />
 </p>
 
 ---
