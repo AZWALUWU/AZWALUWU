@@ -1,29 +1,40 @@
 # Hi, I'm Aza 👋  
-**Cloud / DevOps Engineer** (Transitioning from Network & Infrastructure)
+**Cloud / DevOps / SRE Engineer** (Transitioning from Network & Infrastructure)
 
-I have **4+ years of experience** operating FTTH internet infrastructure in production environments. Currently transitioning into Cloud and DevOps Engineering by building, debugging, and documenting production-ready systems.
+I have **4+ years of experience** operating physical and logical FTTH internet infrastructure in mission-critical production environments. Currently transitioning into Cloud, DevOps, and Site Reliability Engineering by architecting, debugging, and documenting production-ready, highly-observable systems.
 
 [🌐 LinkedIn](https://www.linkedin.com/in/azwa-luwu-4849033a3/) | [📬 Email Me](mailto:azafi101@gmail.com)
 
 ---
 
 ## ⚡ Executive Summary
-*   **Infrastructure Background:** 4+ years managing physical and logical network infrastructure (FTTH, routing, switching).
-*   **OS & Linux:** Working daily with Linux & Windows systems, system hardening, and shell scripting.
-*   **Cloud & DevOps Focus:** Active practitioner in AWS Core Services, Containerization (Docker/K8s), Infrastructure as Code (Terraform), and CI/CD pipelines.
+*   **Infrastructure & Networking:** 4+ years managing physical/logical network infrastructure (FTTH, routing, switching, VPCs).
+*   **Automation & Programming:** Writing clean and efficient automation scripts and microservices using **Golang, Python, and Bash**.
+*   **GitOps & IaC:** Building declarative, self-healing infrastructure using **Terraform, Helm, and ArgoCD**.
+*   **Advanced Observability:** Designing end-to-end telemetry pipelines using **OpenTelemetry** and the **LGTM Stack** (Loki, Grafana, Tempo, Mimir).
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,aws,terraform,docker,kubernetes,githubactions,prometheus,grafana,aiscript" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,go,python,aws,terraform,docker,kubernetes,githubactions,prometheus,grafana" />
 </p>
+
+*   **Languages:** Golang, Python, Bash, JavaScript
+*   **Cloud & Emulation:** AWS Core Services, LocalStack (v3.5.0)
+*   **Containerization & Orchestration:** Docker, Kubernetes, Helm
+*   **CI/CD & GitOps:** GitHub Actions, ArgoCD
+*   **Observability & Reliability:** OpenTelemetry, LGTM Stack (Mimir, Loki, Tempo, Grafana), PagerDuty
 
 ---
 
-## 📊 Core Technologies Used
+## 🚀 Featured Portfolio Project
+### **Zero-Cost ($0) End-to-End GitOps & Cloud Observability Ecosystem**
+A fully local, production-grade cloud infrastructure and microservice ecosystem built entirely using open-source tools and free-tiers ($0 infrastructure cost).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZWALUWU&layout=compact&theme=default" alt="Most Used Languages" height="150" />
-</p>
+*   **Infrastructure-as-Code:** Simulated AWS environments (S3, SQS, IAM) locally via **LocalStack v3.5.0** provisioned declaratively using **Terraform**.
+*   **Application Layer:** A high-performance **Golang** microservice integrated with **Python** automation helpers.
+*   **GitOps & CI/CD Pipeline:** Code changes trigger **GitHub Actions** to build Docker images, which are automatically detected and deployed to a local Kubernetes cluster by **ArgoCD** via **Helm**.
+*   **Full-Stack Observability:** Instrumentation with **OpenTelemetry**, pushing metrics to **Mimir**, logs to **Loki**, and traces to **Tempo**. 
+*   **Incident Management:** Automated alerting from Grafana/Mimir connected via webhooks to **PagerDuty (Free Tier)** for real-time on-call engineer notifications.
