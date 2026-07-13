@@ -22,7 +22,7 @@ I have **4+ years of experience** operating physical and logical FTTH internet i
 </p>
 
 *   **Languages:** Golang, Python, Bash, JavaScript
-*   **Cloud & Emulation:** AWS Core Services, LocalStack (v3.5.0)
+*   **Cloud & Emulation:** AWS Core Services, LocalStack
 *   **Containerization & Orchestration:** Docker, Kubernetes, Helm
 *   **CI/CD & GitOps:** GitHub Actions, ArgoCD
 *   **Observability & Reliability:** OpenTelemetry, LGTM Stack (Mimir, Loki, Tempo, Grafana), PagerDuty
