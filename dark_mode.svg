@@ -1,0 +1,38 @@
+<svg width="520" height="304" viewBox="0 0 520 304" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 700 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
+    .subtitle { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
+    .section-title { font: 600 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+    .link-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
+    .link-val { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+  </style>
+
+  <rect width="519" height="303" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <text x="30" y="45" class="title">AZWALUWU</text>
+  <text x="30" y="68" class="subtitle">DevOps & Infrastructure Enthusiast</text>
+
+  <line x1="30" y1="85" x2="490" y2="85" stroke="#21262D" stroke-width="1"/>
+
+  <text x="30" y="112" class="section-title">🔗 Connect &amp; Links</text>
+  
+  <g transform="translate(30, 125)">
+    <text x="0" y="15" class="link-label">Website:</text>
+    <a href="https://azwaluwu.github.io" target="_blank">
+      <text x="80" y="15" class="link-val">azwaluwu.github.io</text>
+    </a>
+
+    <text x="0" y="38" class="link-label">LinkedIn:</text>
+    <a href="https://www.linkedin.com/in/azwa-luwu-4849033a3/" target="_blank">
+      <text x="80" y="38" class="link-val">Azwa Luwu</text>
+    </a>
+  </g>
+
+  <line x1="30" y1="190" x2="490" y2="190" stroke="#21262D" stroke-width="1"/>
+
+  <text x="30" y="217" class="section-title">🛠️ Tech Stack &amp; Tools</text>
+
+  <g transform="translate(30, 232)">
+    <g transform="translate(0, 0)"><rect x="0" y="0" width="60" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="30.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Linux</text></g><g transform="translate(68, 0)"><rect x="0" y="0" width="56" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="28.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Bash</text></g><g transform="translate(132, 0)"><rect x="0" y="0" width="68" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="34.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Python</text></g><g transform="translate(208, 0)"><rect x="0" y="0" width="60" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="30.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Nginx</text></g><g transform="translate(276, 0)"><rect x="0" y="0" width="60" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="30.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">AWS</text></g><g transform="translate(344, 0)"><rect x="0" y="0" width="82" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="41.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Terraform</text></g><g transform="translate(0, 34)"><rect x="0" y="0" width="68" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="34.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Docker</text></g><g transform="translate(76, 34)"><rect x="0" y="0" width="118" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="59.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">GitHub Actions</text></g><g transform="translate(202, 34)"><rect x="0" y="0" width="92" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="46.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Prometheus</text></g><g transform="translate(302, 34)"><rect x="0" y="0" width="70" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="35.0" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="#E6EDF3">Grafana</text></g>
+  </g>
+</svg>
