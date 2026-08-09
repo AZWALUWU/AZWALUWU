@@ -34,12 +34,6 @@ THEMES = {
     }
 }
 
-def generate_badge_svg(text, width, x_class, t_class, bg_class, s_class):
-    return f"""
-    <rect x="0" y="0" width="{width}" height="26" rx="6" class="{bg_class}" stroke-class="{s_class}"/>
-    <text x="{width/2}" y="17" text-anchor="middle" class="{t_class}">{text}</text>
-    """
-
 def generate_svg(theme_name, filename):
     t = THEMES[theme_name]
     
@@ -58,12 +52,12 @@ def generate_svg(theme_name, filename):
             
         stack_html += f'<g transform="translate({current_x}, {current_y})">'
         stack_html += f'<rect x="0" y="0" width="{width}" height="26" rx="6" fill="{t["badge_bg"]}" stroke="{t["badge_stroke"]}" stroke-width="1"/>'
-        stack_html += f'<text x="{width/2}" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu" font-size="12" font-weight="500" fill="{t["badge_txt"]}">{text}</text>'
-        stack_html += '</g>'
+        stack_html += f'<text x="{width/2}" y="17" text-anchor="middle" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" font-weight="500" fill="{t["badge_txt"]}">{text}</text>'
+        stack_html += '</g>\n'
         
         current_x += width + gap
 
-    final_height = 240 + current_y + 30 # Dinamis berdasarkan jumlah baris stack
+    final_height = 240 + current_y + 30
 
     svg_content = f"""<svg width="520" height="{final_height}" viewBox="0 0 520 {final_height}" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
