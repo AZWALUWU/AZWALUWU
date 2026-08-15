@@ -2,33 +2,20 @@
 
 ### Cloud Engineer | Network & Infrastructure Engineer
 
-Cloud Engineer with **4 years of hands-on experience in network and infrastructure engineering**, with practical experience in **AWS, Terraform, Docker, Kubernetes, automation, monitoring, and DevSecOps**.
-
-I focus on building reliable infrastructure, automating operational workflows, and improving system visibility, security, and scalability.
+Cloud Engineer with **4 years of hands-on experience in network and infrastructure engineering**, specializing in **AWS, Terraform, Docker, Kubernetes, automation, and DevSecOps**. Focused on building **reliable, secure, and automated infrastructure**.
 
 ---
 
 ## About Me
 
-* Cloud Engineer with a background in **Computer and Network Engineering**
-* 4 years of hands-on experience in **network and infrastructure engineering**
-* Experienced with **AWS cloud infrastructure and Infrastructure as Code**
-* Strong foundation in **networking, routing, VLAN, firewall, and GPON infrastructure**
-* Experienced in **containerization and Kubernetes orchestration**
-* Build automation using **Python and Bash**
-* Implement CI/CD and security scanning using **GitHub Actions and Trivy**
-* Implement infrastructure monitoring and observability using **Prometheus and Grafana**
+I build and automate cloud infrastructure with a strong foundation in **networking and infrastructure engineering**, using **AWS, Infrastructure as Code, containers, Kubernetes, and DevSecOps practices**.
 
----
 
 ## Tech Stack
 
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-
 **Infrastructure & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square\&logo=terraform\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
