@@ -38,58 +38,6 @@ I build and automate cloud infrastructure with a strong foundation in **networki
 
 `MikroTik` · `GPON` · `VLAN` · `Firewall` · `Routing`
 
----
-
-## Featured Projects
-
-### E-Commerce Order & Payment Processing System
-
-**Event-Driven Microservices**
-
-An event-driven microservices system for order and payment processing.
-
-**Key technologies:**
-
-`FastAPI` · `AWS SQS` · `AWS SNS` · `DynamoDB` · `S3` · `Terraform` · `Docker` · `Kubernetes` · `Prometheus` · `Grafana` · `GitHub Actions` · `Trivy`
-
-**Highlights:**
-
-* Designed a decoupled microservices architecture using **FastAPI**
-* Implemented asynchronous communication using **AWS SQS/SNS**
-* Provisioned AWS infrastructure using **Terraform**
-* Managed application workloads using **Kubernetes**
-* Implemented monitoring with **Prometheus and Grafana**
-* Integrated **GitHub Actions and Trivy** for CI/CD and security scanning
-
-**Repository:**
-https://github.com/AZWALUWU/ecommerce-processing
-
----
-
-### Serverless & Event-Driven Data Processing Pipeline
-
-**AWS Serverless & ETL**
-
-An event-driven serverless pipeline for processing transaction data.
-
-**Key technologies:**
-
-`AWS Lambda` · `S3` · `DynamoDB` · `Terraform` · `Python` · `GitHub Actions` · `Trivy` · `Kubernetes`
-
-**Highlights:**
-
-* Built event-driven processing using **AWS Lambda and S3 triggers**
-* Eliminated idle compute costs through event-driven execution
-* Automated infrastructure provisioning using **Terraform**
-* Reduced infrastructure setup time by **80%**
-* Built a Python-based serverless ETL process
-* Processed transaction data into **AWS DynamoDB**
-* Implemented DevSecOps automation using **GitHub Actions and Trivy**
-
-**Repository:**
-https://github.com/AZWALUWU/serverless-pipeline
-
----
 
 ## Let's Connect
 
